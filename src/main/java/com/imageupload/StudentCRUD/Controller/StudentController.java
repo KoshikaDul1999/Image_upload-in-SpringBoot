@@ -2,6 +2,7 @@ package com.imageupload.StudentCRUD.Controller;
 
 import com.imageupload.StudentCRUD.Entity.Student;
 import com.imageupload.StudentCRUD.Service.StudentServiceImpl;
+import com.imageupload.StudentCRUD.Util.FileUploadUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
